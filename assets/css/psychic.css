@@ -1,0 +1,31 @@
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+
+#container{	
+	max-width:960px;
+	height:1000px;
+	margin:20px auto;
+	display:-webkit-box;
+	-webkit-box-orient:vertical;
+	-webkit-box-flex:1;	
+	background:url(../images/Psychic.jpg);
+	background-size:1000px 1000px;
+	
+
+
+		}
+
+
+
+#game {
+		margin-top:10%;
+		text-align:center;
+		line-height: 70px;
+		color:red;
+		font-size: 45px;
+
+		}
